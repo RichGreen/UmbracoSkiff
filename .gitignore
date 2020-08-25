@@ -3,3 +3,7 @@ bin
 v16
 Umbraco
 Packages
+obj
+Media
+
+!App_Data/Models
