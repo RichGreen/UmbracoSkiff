@@ -196,7 +196,6 @@ C:\Users\richg\Documents\Umbraco\Azure\UmbracoSkiff\UmbracoSkiff\UmbracoSkiff\bi
 C:\Users\richg\Documents\Umbraco\Azure\UmbracoSkiff\UmbracoSkiff\UmbracoSkiff\bin\Umbraco.Web.xml
 C:\Users\richg\Documents\Umbraco\Azure\UmbracoSkiff\UmbracoSkiff\UmbracoSkiff\bin\Umbraco.Web.UI.xml
 C:\Users\richg\Documents\Umbraco\Azure\UmbracoSkiff\UmbracoSkiff\UmbracoSkiff\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\richg\Documents\Umbraco\Azure\UmbracoSkiff\UmbracoSkiff\UmbracoSkiff\obj\Debug\UmbracoSkiff.csprojAssemblyReference.cache
 C:\Users\richg\Documents\Umbraco\Azure\UmbracoSkiff\UmbracoSkiff\UmbracoSkiff\obj\Debug\UmbracoSkiff.csproj.CopyComplete
 C:\Users\richg\Documents\Umbraco\Azure\UmbracoSkiff\UmbracoSkiff\UmbracoSkiff\obj\Debug\UmbracoSkiff.dll
 C:\Users\richg\Documents\Umbraco\Azure\UmbracoSkiff\UmbracoSkiff\UmbracoSkiff\obj\Debug\UmbracoSkiff.pdb
@@ -254,3 +253,4 @@ C:\Users\richg\Documents\Umbraco\Azure\UmbracoSkiff\UmbracoSkiff\UmbracoSkiff\bi
 C:\Users\richg\Documents\Umbraco\Azure\UmbracoSkiff\UmbracoSkiff\UmbracoSkiff\bin\ru\System.Spatial.resources.dll
 C:\Users\richg\Documents\Umbraco\Azure\UmbracoSkiff\UmbracoSkiff\UmbracoSkiff\bin\zh-Hans\System.Spatial.resources.dll
 C:\Users\richg\Documents\Umbraco\Azure\UmbracoSkiff\UmbracoSkiff\UmbracoSkiff\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\richg\Documents\Umbraco\Azure\UmbracoSkiff\UmbracoSkiff\UmbracoSkiff\obj\Debug\UmbracoSkiff.csprojAssemblyReference.cache
